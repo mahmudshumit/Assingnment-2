@@ -1,0 +1,45 @@
+.navbar-sizing img{
+    width: 50%;
+}
+.main-section img{
+    width: 80%;
+}
+.button-section{
+    font-variant: initial;
+    font-size: x-large;
+      
+    
+    
+}
+.tittle-style{
+    color:  #363958;
+}
+.card-img-top {
+    
+    padding:5%;
+    background-color:#f0f0f0;
+    border-radius: 1em;
+    
+}
+.jacket-card {
+    background-color:white;
+    border-radius: 1em;
+    border: 0;
+    margin: 0 40px;
+}
+.jacket-section{
+    border: 0;
+    border-radius: 2em;
+     
+    
+    
+}
+.end-section{
+    border: 0;
+}
+.card-body{
+    
+    background-color: aliceblue;
+    border-radius: 1em;
+    
+}
